@@ -1,4 +1,4 @@
-# PyGmail
+#  💌 PyGmail
 A guided notebook how to send Gmail via Python
 ![](https://github.com/wallik2/PyGmail/blob/main/readmepic/cat.png?raw=true)
 
