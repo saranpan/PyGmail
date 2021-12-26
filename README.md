@@ -4,8 +4,9 @@
 
 ![](https://github.com/wallik2/PyGmail/blob/main/readmepic/cat.png?raw=true)
 
-### Content
-- Cover Subject, from, to, Body of an email
+<hr>
+### <u>Content</u>
+- Cover Subject, ( Recipient:from & to ), Body of an email
 - Attach >= 1 image
 - Attach PDF
 - Send more than 1 recipient at once
