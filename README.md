@@ -1,7 +1,8 @@
 # PyGmail
 A guided notebook how to send Gmail via Python
+![](https://github.com/wallik2/PyGmail/blob/main/readmepic/cat.png?raw=true)
 
-- Cove Subject, from, to, Body
+- Cover Subject, from, to, Body of an email
 - Attach >= 1 image
 - Attach PDF
 - Send more than 1 recipient at once
