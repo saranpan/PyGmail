@@ -4,6 +4,7 @@
 
 ![](https://github.com/wallik2/PyGmail/blob/main/readmepic/cat.png?raw=true)
 
+### Content
 - Cover Subject, from, to, Body of an email
 - Attach >= 1 image
 - Attach PDF
